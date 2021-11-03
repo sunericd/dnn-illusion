@@ -1,6 +1,6 @@
 # ImageNet-trained deep neural networks exhibit illusion-like response to the Scintillating Grid
 
-##Citation:
+## Citation:
 
 **Eric D. Sun, Ron Dekel; ImageNet-trained deep neural networks exhibit illusion-like response to the Scintillating grid. Journal of Vision 2021;21(11):15. doi: https://doi.org/10.1167/jov.21.11.15.**
 
